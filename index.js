@@ -6,3 +6,6 @@ function vickram (){
 function sparsh(){
     return "sparsh"
 }
+ function neha (){
+    return"neha"
+ }
